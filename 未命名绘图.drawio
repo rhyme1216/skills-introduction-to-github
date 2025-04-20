@@ -175,8 +175,8 @@
         <mxCell id="qcFzVA8NKl3-KwyzxpJQ-2" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体-简&quot;&gt;始发分拣&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="42" y="13" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qcFzVA8NKl3-KwyzxpJQ-10" value="&lt;font face=&quot;宋体-简&quot;&gt;装车摆渡&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-78" y="13" width="66" height="26" as="geometry" />
+        <mxCell id="qcFzVA8NKl3-KwyzxpJQ-10" value="&lt;font face=&quot;宋体-简&quot;&gt;装车摆渡&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-86" y="11" width="82" height="31" as="geometry" />
         </mxCell>
         <mxCell id="qcFzVA8NKl3-KwyzxpJQ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qcFzVA8NKl3-KwyzxpJQ-11" target="qcFzVA8NKl3-KwyzxpJQ-14">
           <mxGeometry relative="1" as="geometry" />
@@ -184,8 +184,8 @@
         <mxCell id="qcFzVA8NKl3-KwyzxpJQ-11" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体-简&quot;&gt;目的分拣&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="431" y="13" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qcFzVA8NKl3-KwyzxpJQ-13" value="&lt;font face=&quot;宋体-简&quot;&gt;干/支线&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="267" y="13" width="60" height="26" as="geometry" />
+        <mxCell id="qcFzVA8NKl3-KwyzxpJQ-13" value="&lt;font face=&quot;宋体-简&quot;&gt;干/支线&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="260" y="11" width="74" height="31" as="geometry" />
         </mxCell>
         <mxCell id="qcFzVA8NKl3-KwyzxpJQ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qcFzVA8NKl3-KwyzxpJQ-14" target="qcFzVA8NKl3-KwyzxpJQ-11">
           <mxGeometry relative="1" as="geometry" />
@@ -193,11 +193,11 @@
         <mxCell id="qcFzVA8NKl3-KwyzxpJQ-14" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体-简&quot;&gt;营业部&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="734" y="13" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qcFzVA8NKl3-KwyzxpJQ-17" value="&lt;font face=&quot;宋体-简&quot;&gt;传返&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="622" y="13" width="42" height="26" as="geometry" />
+        <mxCell id="qcFzVA8NKl3-KwyzxpJQ-17" value="&lt;font face=&quot;宋体-简&quot;&gt;传返&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="618" y="11" width="50" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="qcFzVA8NKl3-KwyzxpJQ-18" value="&lt;font face=&quot;宋体-简&quot;&gt;传站&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="622" y="50" width="42" height="26" as="geometry" />
+        <mxCell id="qcFzVA8NKl3-KwyzxpJQ-18" value="&lt;font face=&quot;宋体-简&quot;&gt;传站&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="618" y="48" width="50" height="31" as="geometry" />
         </mxCell>
         <mxCell id="qcFzVA8NKl3-KwyzxpJQ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qcFzVA8NKl3-KwyzxpJQ-19" target="qcFzVA8NKl3-KwyzxpJQ-11">
           <mxGeometry relative="1" as="geometry" />
@@ -205,11 +205,11 @@
         <mxCell id="qcFzVA8NKl3-KwyzxpJQ-19" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体-简&quot;&gt;中转分拣&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="237" y="214" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qcFzVA8NKl3-KwyzxpJQ-22" value="&lt;font face=&quot;宋体-简&quot;&gt;干线&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="148" y="214" width="42" height="26" as="geometry" />
+        <mxCell id="qcFzVA8NKl3-KwyzxpJQ-22" value="&lt;font face=&quot;宋体-简&quot;&gt;干线&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="144" y="212" width="50" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="qcFzVA8NKl3-KwyzxpJQ-24" value="&lt;font face=&quot;宋体-简&quot;&gt;干线&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="404" y="210" width="42" height="26" as="geometry" />
+        <mxCell id="qcFzVA8NKl3-KwyzxpJQ-24" value="&lt;font face=&quot;宋体-简&quot;&gt;干线&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="211" width="50" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
