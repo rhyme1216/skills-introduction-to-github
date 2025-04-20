@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13" pages="3">
-  <diagram name="第 1 页" id="rYIwCMhhl4FwwUg2gOus">
-    <mxGraphModel dx="1029" dy="1867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="技术路线" id="rYIwCMhhl4FwwUg2gOus">
+    <mxGraphModel dx="2173" dy="2642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,14 +42,164 @@
         <mxCell id="7UTOj-EjClNs3wNt_q9s-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7UTOj-EjClNs3wNt_q9s-10" target="7UTOj-EjClNs3wNt_q9s-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7UTOj-EjClNs3wNt_q9s-10" target="6d85ikDCD8stN9RTyZjx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7UTOj-EjClNs3wNt_q9s-10" value="概念及范围界定" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
           <mxGeometry x="340" y="170" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7UTOj-EjClNs3wNt_q9s-12" value="概念及范围界定" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+        <mxCell id="7UTOj-EjClNs3wNt_q9s-12" value="电商物流网络" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
           <mxGeometry x="640" y="140" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7UTOj-EjClNs3wNt_q9s-14" value="&lt;font&gt;绪 论&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+        <mxCell id="7UTOj-EjClNs3wNt_q9s-14" value="&lt;font&gt;运输线路调度&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
           <mxGeometry x="640" y="200" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6d85ikDCD8stN9RTyZjx-1" target="6d85ikDCD8stN9RTyZjx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6d85ikDCD8stN9RTyZjx-1" target="6d85ikDCD8stN9RTyZjx-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6d85ikDCD8stN9RTyZjx-1" target="6d85ikDCD8stN9RTyZjx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6d85ikDCD8stN9RTyZjx-1" target="6d85ikDCD8stN9RTyZjx-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-1" value="相关理论介绍" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+          <mxGeometry x="340" y="320" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;IPSO&lt;/font&gt;模型理论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="260" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-5" value="网络流理论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="380" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;ALSTM&lt;/font&gt;模型理论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6d85ikDCD8stN9RTyZjx-9" target="7UTOj-EjClNs3wNt_q9s-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6d85ikDCD8stN9RTyZjx-9" target="6d85ikDCD8stN9RTyZjx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-9" value="文献收集、整理及&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6d85ikDCD8stN9RTyZjx-12" target="6d85ikDCD8stN9RTyZjx-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6d85ikDCD8stN9RTyZjx-12" target="6d85ikDCD8stN9RTyZjx-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6d85ikDCD8stN9RTyZjx-12" target="6d85ikDCD8stN9RTyZjx-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6d85ikDCD8stN9RTyZjx-12" target="6d85ikDCD8stN9RTyZjx-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;X&lt;/font&gt;电商公司现状及问题分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+          <mxGeometry x="340" y="500" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-14" value="&lt;font face=&quot;宋体-简&quot;&gt;物流网络运输线路&lt;/font&gt;现状" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="500" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-16" value="线路问题成因分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="560" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-17" value="企业背景介绍" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="440" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6d85ikDCD8stN9RTyZjx-20" target="6d85ikDCD8stN9RTyZjx-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-20" value="实地访谈、查阅资料" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="500" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6d85ikDCD8stN9RTyZjx-22" target="6d85ikDCD8stN9RTyZjx-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6d85ikDCD8stN9RTyZjx-22" target="6d85ikDCD8stN9RTyZjx-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6d85ikDCD8stN9RTyZjx-22" target="6d85ikDCD8stN9RTyZjx-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-22" value="基于时序数据的运输需求&lt;div&gt;量预测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+          <mxGeometry x="340" y="641" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6d85ikDCD8stN9RTyZjx-24" target="6d85ikDCD8stN9RTyZjx-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6d85ikDCD8stN9RTyZjx-24" target="6d85ikDCD8stN9RTyZjx-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6d85ikDCD8stN9RTyZjx-24" target="6d85ikDCD8stN9RTyZjx-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6d85ikDCD8stN9RTyZjx-24" target="6d85ikDCD8stN9RTyZjx-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-24" value="基于网络流的紧急调运策&lt;div&gt;略研究&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+          <mxGeometry x="340" y="790" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-25" value="模型分析和预测结果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="680" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-27" value="&lt;span style=&quot;text-align: start; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;IPSO-ALSTM&lt;/span&gt;&lt;span style=&quot;text-align: start; font-size: 12pt;&quot;&gt;&lt;font face=&quot;宋体-简&quot;&gt;算法预测设计&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="620" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-30" value="网络流优化与应急调度模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="740" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-32" value="算法设计与求解方法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="800" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-33" value="实验结果和算法性能比较" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="860" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6d85ikDCD8stN9RTyZjx-37" target="6d85ikDCD8stN9RTyZjx-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6d85ikDCD8stN9RTyZjx-37" target="6d85ikDCD8stN9RTyZjx-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-37" value="模型设计和实证分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="720" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-40" value="结论与展望" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+          <mxGeometry x="340" y="950" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6d85ikDCD8stN9RTyZjx-42" target="6d85ikDCD8stN9RTyZjx-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-42" value="解决问题、得出结论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="950" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-44" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;dashPattern=1 4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="24.380000000000003" y="130" as="sourcePoint" />
+            <mxPoint x="875.63" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-45" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="24.370000000000005" y="430" as="sourcePoint" />
+            <mxPoint x="875.62" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-46" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="24.37" y="610" as="sourcePoint" />
+            <mxPoint x="875.62" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6d85ikDCD8stN9RTyZjx-47" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="24.380000000000003" y="910" as="sourcePoint" />
+            <mxPoint x="875.63" y="910" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
