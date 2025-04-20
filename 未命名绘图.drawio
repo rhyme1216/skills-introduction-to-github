@@ -1,11 +1,55 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram name="第 1 页" id="rYIwCMhhl4FwwUg2gOus">
-    <mxGraphModel dx="978" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1029" dy="1867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BWnAqa3PNJtd5gbl4KsM-1" value="&lt;font face=&quot;楷体-简&quot; style=&quot;font-size: 16px;&quot;&gt;绪论&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="7UTOj-EjClNs3wNt_q9s-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BWnAqa3PNJtd5gbl4KsM-1" target="7UTOj-EjClNs3wNt_q9s-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7UTOj-EjClNs3wNt_q9s-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BWnAqa3PNJtd5gbl4KsM-1" target="7UTOj-EjClNs3wNt_q9s-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7UTOj-EjClNs3wNt_q9s-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BWnAqa3PNJtd5gbl4KsM-1" target="7UTOj-EjClNs3wNt_q9s-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7UTOj-EjClNs3wNt_q9s-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BWnAqa3PNJtd5gbl4KsM-1" target="7UTOj-EjClNs3wNt_q9s-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="-30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7UTOj-EjClNs3wNt_q9s-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BWnAqa3PNJtd5gbl4KsM-1" target="7UTOj-EjClNs3wNt_q9s-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7UTOj-EjClNs3wNt_q9s-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BWnAqa3PNJtd5gbl4KsM-1" target="7UTOj-EjClNs3wNt_q9s-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BWnAqa3PNJtd5gbl4KsM-1" value="&lt;font&gt;绪 论&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" parent="1" vertex="1">
+          <mxGeometry x="340" y="20" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7UTOj-EjClNs3wNt_q9s-1" value="&lt;font&gt;研究目的和意义&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="20" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7UTOj-EjClNs3wNt_q9s-7" value="研究背景" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-40" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7UTOj-EjClNs3wNt_q9s-8" value="&lt;font&gt;研究内容和方法&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="80" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7UTOj-EjClNs3wNt_q9s-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7UTOj-EjClNs3wNt_q9s-10" target="7UTOj-EjClNs3wNt_q9s-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7UTOj-EjClNs3wNt_q9s-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7UTOj-EjClNs3wNt_q9s-10" target="7UTOj-EjClNs3wNt_q9s-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7UTOj-EjClNs3wNt_q9s-10" value="概念及范围界定" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+          <mxGeometry x="340" y="170" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7UTOj-EjClNs3wNt_q9s-12" value="概念及范围界定" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="140" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7UTOj-EjClNs3wNt_q9s-14" value="&lt;font&gt;绪 论&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体-简;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="200" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
